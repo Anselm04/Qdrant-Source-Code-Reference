@@ -1,0 +1,3 @@
+Upstream: https://github.com/qdrant/qdrant
+Revision: 23065a0bf6857c3e5da45f6c8939cc746cc0580e
+Original tree: 788e81701e04caa2b754dfdd1ad100717f7f0f23

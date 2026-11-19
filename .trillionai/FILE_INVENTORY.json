@@ -1,0 +1,36 @@
+{
+  "upstream": "https://github.com/qdrant/qdrant",
+  "upstream_commit": "23065a0bf6857c3e5da45f6c8939cc746cc0580e",
+  "upstream_tree": "788e81701e04caa2b754dfdd1ad100717f7f0f23",
+  "upstream_tracked_entries": 2687,
+  "upstream_blob_files": 2687,
+  "expected_source_files": 2668,
+  "verified_source_files": 2668,
+  "excluded_paths": {
+    ".github/workflows/codespell.yml": "upstream workflow disabled",
+    ".github/workflows/coverage.yml": "upstream workflow disabled",
+    ".github/workflows/debug-tools.yml": "upstream workflow disabled",
+    ".github/workflows/dev-docker-image-build-gpu.yml": "upstream workflow disabled",
+    ".github/workflows/dev-docker-image-build.yml": "upstream workflow disabled",
+    ".github/workflows/dev-docker-image-prune.yml": "upstream workflow disabled",
+    ".github/workflows/docker-image.yml": "upstream workflow disabled",
+    ".github/workflows/edge-py-release.yml": "upstream workflow disabled",
+    ".github/workflows/edge-rust-release.yml": "upstream workflow disabled",
+    ".github/workflows/edge-test.yml": "upstream workflow disabled",
+    ".github/workflows/integration-tests.yml": "upstream workflow disabled",
+    ".github/workflows/io-bridge-object-store-tests.yml": "upstream workflow disabled",
+    ".github/workflows/long-e2e-tests.yml": "upstream workflow disabled",
+    ".github/workflows/nightly-model-testing.yml": "upstream workflow disabled",
+    ".github/workflows/release-artifacts.yml": "upstream workflow disabled",
+    ".github/workflows/rust-gpu.yml": "upstream workflow disabled",
+    ".github/workflows/rust-lint.yml": "upstream workflow disabled",
+    ".github/workflows/rust.yml": "upstream workflow disabled",
+    "tests/e2e_tests/test_data/storage.tar.xz": "external LFS asset not imported; avoid incomplete push and storage costs"
+  },
+  "missing_paths": [],
+  "mismatched_paths": [],
+  "extra_paths": [
+    ".github/workflows/import-reference.yml"
+  ],
+  "scope": "Tracked Git blobs; no external LFS payloads, submodule contents or full history."
+}
